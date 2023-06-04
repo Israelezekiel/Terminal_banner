@@ -2,7 +2,7 @@
 
 Installation Step :
 
-    git clone https://github.com/israelezekiel/termux-banner
+    git clone https://github.com/israelezekiel/Terminal-banner
 
     cd termux-banner
 
